@@ -1,2 +1,2 @@
 # Dissertation-on-the-Nutrition-Transition
-This data set contains socio-demographic variables (including overweight rates, GDP, globalisation indicators) on 54 countries from 1990-2022. 
+This data set contains socio-demographic variables on 54 countries from 1990-2022. This includes low, mid, and high income countries. Variables and data sources include: Overweight rates (World Health Organisation), Globalisation (KOF Swiss Economic Institute), Democracy (Polity IV Index), Female empowerment (World Bank), GDP per capita (World Bank), Urbanization rate (World Bank), Inflation (World Bank), Unemployment ((World Bank), Calories/Fat/Protein (Food and Agriculture Organization of the United Nations). Countries with fully missing data on any variable have been removed. 
